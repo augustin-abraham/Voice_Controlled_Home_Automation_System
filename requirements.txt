@@ -1,5 +1,0 @@
-Flask
-RPi.GPIO
-SpeechRecognition
-RPLCD
-PyAudio
